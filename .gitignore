@@ -1,0 +1,13 @@
+# личные данные — список проектов с путями на этом компьютере
+harbor.json
+harbor.tmp
+harbor.broken.json
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+
+# исходное ТЗ
+Текстовый документ.txt
