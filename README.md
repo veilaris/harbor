@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="docs/logo.png" width="160" alt="Harbor logo">
-</p>
-
 <h1 align="center">Harbor</h1>
 
 <p align="center">
-  A tiny neon launcher that keeps all your projects in one place and opens them in VS Code with a single click.
+  A lightweight launcher for VS Code projects: keeps all your projects in one place and opens them with a single click.
   <br>
   <b>English</b> · <a href="README.ru.md">Русский</a>
 </p>

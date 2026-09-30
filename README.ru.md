@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="docs/logo.png" width="160" alt="Логотип Harbor">
-</p>
-
 <h1 align="center">Harbor</h1>
 
 <p align="center">
-  Маленький неоновый лаунчер: все проекты в одном окне, открываются в VS Code одним кликом.
+  Легкий лаунчер для VSCode проектов: все проекты в одном окне, открываются в VS Code одним кликом.
   <br>
   <a href="README.md">English</a> · <b>Русский</b>
 </p>
